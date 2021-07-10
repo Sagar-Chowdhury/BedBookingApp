@@ -11,7 +11,10 @@ A Hospital Bed Booking App.
 
 ## Backend:-
 
-1.Cloud FireStore as a Real time DataBase.
+Cloud FireStore as a Real time DataBase.
+
+![](firestore.png)
+
 
 ## Frontend:-
 
