@@ -4,6 +4,8 @@ A Hospital Bed Booking App.
 # Project About
 Getting a patient admitted to a hospital has always been a complex and time demanding process, which we cannot sometimes afford, incase, the patients condition is critical, especially in this current pandemic situation that were in. So, 5 of us, from Jadavpur University, have devised a solution, which lets us reserve a bed, right from our home. Users have to book a form, provide mandatory details, and will then be prompted with a unique ID, incase beds are available. The ID can be used to get the patient admitted, without any further hassles. Ours is a prototype, which can be implemented by hospitals on their respective servers. We have come up with the web and app solutions for the same.
 
+# [Devfolio Link](https://devfolio.co/submissions/hospital-bed-booking-prototype-30e7) 
+
 ## Project Video Link
 # [Youtube](https://youtu.be/-FdshgMwsDg)
 
