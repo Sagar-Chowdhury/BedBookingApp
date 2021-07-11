@@ -20,9 +20,10 @@ Cloud FireStore as a Real time DataBase.
 
 ## Frontend:-
 
- [Lottie](https://lottiefiles.com/) Files For Animation
-
- Views 
+# [Lottie](https://lottiefiles.com/) 
+ 
+ ![](lott.png)
+ 
 
 # [Material Design](https://material.io/design)
 
