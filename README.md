@@ -2,7 +2,7 @@
 A Hospital Bed Booking App.
 
 ## Project Video Link
-# [Youtube](https://www.youtube.com/)
+# [Youtube](https://youtu.be/-FdshgMwsDg)
 
 ![](PentaWizzOnly.png)
 
